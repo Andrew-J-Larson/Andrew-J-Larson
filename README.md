@@ -1,14 +1,10 @@
 ### Hi there
 
-<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="Hi there">
+<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="Hi there">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Profile views](https://gpvc.arturio.dev/thealiendrew)
 
 I know, this profile is pretty bare right now, but I'll probably work on it more when my motivation to program improves again.
 
-![Profile views](https://gpvc.arturio.dev/thealiendrew)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thealiendrew&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Hello World" /></p>
-
-[![TheAlienDrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=thealiendrew&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/TheAlienDrew)
+![TheAlienDrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=thealiendrew&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)&nbsp;&nbsp;&nbsp;&nbsp;![TheAlienDrew's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thealiendrew&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)
 
 <!--
 **TheAlienDrew/TheAlienDrew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
