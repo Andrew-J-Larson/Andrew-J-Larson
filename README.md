@@ -4,7 +4,7 @@
 
 I know, this profile is pretty bare right now, but I'll probably work on it more when my motivation to program improves again.
 
-![TheAlienDrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=thealiendrew&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)&nbsp;&nbsp;&nbsp;&nbsp;![TheAlienDrew's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thealiendrew&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)
+![TheAlienDrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=thealiendrew&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21) ![TheAlienDrew's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thealiendrew&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)
 
 <!--
 **TheAlienDrew/TheAlienDrew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
