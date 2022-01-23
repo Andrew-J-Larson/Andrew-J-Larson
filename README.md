@@ -14,5 +14,4 @@ I know, this profile is pretty bare right now, but I'll probably work on it more
   - [![Chat with @Alien_Drew](https://img.shields.io/badge/Chat_with_@Alien__Drew--URL?style=social&logo=reddit&link=https%3A%2F%2Fwww.reddit.com%2Fchat%2Fuser_id%2Ft2_1091wg)](https://www.reddit.com/chat/user_id/t2_1091wg)
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I really enjoy adding tiny features onto websites online via Tampermonkey (JavaScript) or Stylus (CSS).
-
-[![TheAlienDrew's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thealiendrew&layout=compact&theme=blue-green)](#)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thealiendrew&exclude_repo=minecraft-classic&layout=compact&theme=blue-green)](#)
