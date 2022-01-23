@@ -2,6 +2,8 @@
 
 I know, this profile is pretty bare right now, but I'll probably work on it more when my motivation to program improves again.
 
+[![TheAlienDrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=thealiendrew&custom_title=TheAlienDrew%27s%20GitHub%20Stats&theme=blue-green)](#)
+
 - 🔭 I’m currently working on nothing at the moment (basically somethings without 100% focus).
 - 🌱 I’m currently learning programming on my own, and to get IT certifications (will update my profile later when I get them).
 - 👯 I’m looking to collaborate on pretty much anything, just contact me!
@@ -13,4 +15,4 @@ I know, this profile is pretty bare right now, but I'll probably work on it more
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I really enjoy adding tiny features onto websites online via Tampermonkey (JavaScript) or Stylus (CSS).
 
-[![TheAlienDrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=thealiendrew&theme=blue-green)](#) [![TheAlienDrew's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thealiendrew&layout=compact&theme=blue-green)](#)
+[![TheAlienDrew's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thealiendrew&layout=compact&theme=blue-green)](#)
