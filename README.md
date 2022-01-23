@@ -1,8 +1,8 @@
-### Hi there&nbsp;&nbsp;[<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="Hi there">](#)&nbsp;&nbsp;[![Profile views](https://komarev.com/ghpvc/?username=thealiendrew&show_icons=true&color=brightgreen)](#)
+### Hi there&nbsp;&nbsp;[<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="Hi there">](#)&nbsp;&nbsp;[![Profile views](https://komarev.com/ghpvc/?username=thealiendrew&color=brightgreen)](#)
 
 I know, this profile is pretty bare right now, but I'll probably work on it more when my motivation to program improves again.
 
-[![TheAlienDrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=thealiendrew&custom_title=TheAlienDrew%27s%20GitHub%20Stats&theme=blue-green)](#)
+[![TheAlienDrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=thealiendrew&custom_title=TheAlienDrew%27s%20GitHub%20Stats&show_icons=true&theme=blue-green)](#)
 
 - 🔭 I’m currently working on nothing at the moment (basically somethings without 100% focus).
 - 🌱 I’m currently learning programming on my own, and to get IT certifications (will update my profile later when I get them).
