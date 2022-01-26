@@ -5,7 +5,7 @@ I know, this profile is pretty bare right now, but I'll probably work on it more
 [![TheAlienDrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=thealiendrew&custom_title=TheAlienDrew%27s%20GitHub%20Stats&show_icons=true&theme=blue-green)](#)
 
 - 🔭 I’m currently working on nothing at the moment (basically somethings without 100% focus).
-- 🌱 I’m currently learning programming on my own, and to get IT certifications (will update my profile later when I get them).
+- 🌱 I’m currently learning programming on my own (but have taken a few college level programming classes), and to get IT certifications (will update my profile later when I get them).
 - 👯 I’m looking to collaborate on pretty much anything, just contact me!
 - 🤔 I’m looking for help with motivation to work on large projects.
 - 💬 Ask me about anything, really, I love questions!
