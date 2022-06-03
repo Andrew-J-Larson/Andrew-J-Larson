@@ -17,6 +17,6 @@ I know, this profile is pretty bare right now, but I'll probably work on it more
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I really enjoy adding tiny features onto websites online via Tampermonkey (injected JS) or Stylus (injected CSS).
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thealiendrew&exclude_repo=minecraft-classic&langs_count=10&layout=compact&theme=blue-green)](#)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thealiendrew&langs_count=10&layout=compact&theme=blue-green)](#)
 
 Can't seem to find a repository that used to be here? Try looking around my alt account at https://github.com/AltAlienDrew.
