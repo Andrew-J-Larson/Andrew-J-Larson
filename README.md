@@ -10,7 +10,7 @@ I know, this profile is pretty bare right now, but I'll probably work on it more
 - 🤔 I’m looking for help with motivation to work on large projects.
 - 💬 Ask me about anything, really, I love questions!
 - 📫 How to reach me: you can contact me below...
-  - [![Tweet to @Alien_Drew](https://img.shields.io/twitter/url?label=Tweet%20to%20%40Alien_Drew&style=social&url=https%3A%2F%2Ftwitter.com%2Fintent%2Ftweet%3Fscreen_name%3DAlien_Drew)](https://twitter.com/intent/tweet?screen_name=Alien_Drew)
+  - [![Reply to @Alien_Drew](https://img.shields.io/badge/Reply_to_@AlienDrew--URL?style=social&logo=mastodon&link=https%3A%2F%2Fmstdn.social%2F%40AlienDrew)](https://mstdn.social/?text=@AlienDrew@mstdn.social%20)
   - [![Chat with @Alien_Drew](https://img.shields.io/badge/Chat_with_@Alien__Drew--URL?style=social&logo=reddit&link=https%3A%2F%2Fwww.reddit.com%2Fchat%2Fuser_id%2Ft2_1091wg)](https://www.reddit.com/chat/user_id/t2_1091wg)
 - ☕ Feeling generous?
   - [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E845O3L)
