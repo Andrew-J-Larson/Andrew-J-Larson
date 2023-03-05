@@ -13,6 +13,7 @@ I know, this profile is pretty bare right now, but I'll probably work on it more
   - [![Reply to @Alien_Drew](https://img.shields.io/badge/Reply_to_@AlienDrew--URL?style=social&logo=mastodon&link=https%3A%2F%2Fmstdn.social%2F%40AlienDrew)](https://mstdn.social/?text=@AlienDrew@mstdn.social%20)
   - [![Chat with @Alien_Drew](https://img.shields.io/badge/Chat_with_@Alien__Drew--URL?style=social&logo=reddit&link=https%3A%2F%2Fwww.reddit.com%2Fchat%2Fuser_id%2Ft2_1091wg)](https://www.reddit.com/chat/user_id/t2_1091wg)
 - ☕ Feeling generous?
+  - [![Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Daliendrew%26type%3Dpatrons&style=for-the-badge)](https://www.patreon.com/bePatron?u=8414636)
   - [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E845O3L)
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I really enjoy adding tiny features onto websites online via Tampermonkey (injected JS) or Stylus (injected CSS).
