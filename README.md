@@ -15,7 +15,7 @@ I know, this profile is pretty bare right now, but I'll probably work on it more
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I really enjoy adding tiny features onto websites online via Tampermonkey (injected JS) or Stylus (injected CSS).
 
-|[![TheAlienDrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=thealiendrew&custom_title=TheAlienDrew%27s%20GitHub%20Stats&show_icons=true&theme=blue-green&exclude_repo=apfs-fuse,darkreader)](#) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheAlienDrew&langs_count=10&layout=compact&theme=blue-green&exclude_repo=apfs-fuse,darkreader)](#)|
+|[![TheAlienDrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=thealiendrew&custom_title=TheAlienDrew%27s%20GitHub%20Stats&show_icons=true&theme=blue-green)](#) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheAlienDrew&langs_count=10&layout=compact&theme=blue-green)](#)|
 |:-:|
 |<details><summary><b>Excluded Repos</b></summary><!-- <p>[repo](#) (why)</p> --><p><sub>None at the moment! (but thanks for checking)</sub></p></details>|
 
