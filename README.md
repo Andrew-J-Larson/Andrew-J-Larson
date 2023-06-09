@@ -2,7 +2,7 @@
 
 I know, this profile is pretty bare right now, but I'll probably work on it more when my motivation to program improves again.
 
-[![TheAlienDrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=thealiendrew&custom_title=TheAlienDrew%27s%20GitHub%20Stats&show_icons=true&theme=blue-green)](#)
+[![TheAlienDrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=thealiendrew&custom_title=TheAlienDrew%27s%20GitHub%20Stats&show_icons=true&theme=blue-green)](#) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thealiendrew&langs_count=10&layout=compact&theme=blue-green)](#)
 
 - 🔭 I’m currently working on nothing at the moment (basically somethings without 100% focus).
 - 🌱 I’m currently learning programming on my own (but have taken a few college level programming classes), and to get IT certifications (will update my profile later when I get them).
@@ -17,7 +17,5 @@ I know, this profile is pretty bare right now, but I'll probably work on it more
   - [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E845O3L)
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I really enjoy adding tiny features onto websites online via Tampermonkey (injected JS) or Stylus (injected CSS).
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thealiendrew&langs_count=10&layout=compact&theme=blue-green)](#)
 
 Can't seem to find a repository that used to be here? Try looking around my alt account at https://github.com/AltAlienDrew.
