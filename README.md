@@ -7,8 +7,7 @@ I know, this profile is pretty bare right now, but I'll probably work on it more
 - 🤔 I’m looking for help with motivation to work on large projects.
 - 💬 Ask me about anything, really, I love questions!
 - 📫 How to reach me: you can contact me below...
-  - [![Reply to @Alien_Drew](https://img.shields.io/badge/Reply_to_@AlienDrew--URL?style=social&logo=mastodon&link=https%3A%2F%2Fmstdn.social%2F%40AlienDrew)](https://mstdn.social/?text=@AlienDrew@mstdn.social%20)
-  - [![Chat with @Alien_Drew](https://img.shields.io/badge/Chat_with_@Alien__Drew--URL?style=social&logo=reddit&link=https%3A%2F%2Fwww.reddit.com%2Fchat%2Fuser_id%2Ft2_1091wg)](https://www.reddit.com/chat/user_id/t2_1091wg)
+  - [![Reply to @Andrew_J_Larson](https://img.shields.io/badge/Reply_to_@Andrew__J__Larson--URL?style=social&logo=mastodon&link=https%3A%2F%2Fmstdn.social%2F%40Andrew_J_Larson)](https://mstdn.social/?text=@Andrew_J_Larson@mstdn.social%20)
 - ☕ Feeling generous?
   - [![Patreon](https://github.com/TheAlienDrew/TheAlienDrew/raw/main/donate-buttons/www.patreon.com_dashboard_widgets.png)](https://www.patreon.com/bePatron?u=8414636)
   - [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E845O3L)
