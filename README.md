@@ -13,6 +13,7 @@ I know, this profile is pretty bare right now, but I'll probably work on it more
 - ☕ Feeling generous?
   - [![Patreon](https://github.com/Andrew-J-Larson/Andrew-J-Larson/raw/main/donate-buttons/www.patreon.com_dashboard_widgets.png)](https://www.patreon.com/bePatron?u=8414636)
   - [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E845O3L)
+  - [![PayPal](https://github.com/Andrew-J-Larson/Andrew-J-Larson/raw/main/donate-buttons/www.paypal.com_donate_button.png)](https://paypal.me/AndrewJ18Larson)
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I really enjoy adding tiny features onto websites online via Tampermonkey (injected JS) or Stylus (injected CSS).
 
