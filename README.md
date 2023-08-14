@@ -2,7 +2,7 @@
 
 Formerly my profile went by the username **TheAlienDrew**, I'll remove this notice sometime by next month, so that everyone is up-to-date on this.
 
-I know, this profile is pretty bare right now, but I'll probably work on it more when my motivation to program improves again.
+I know, my account is pretty miniscule at the moment, but at the moment, I hobby program/cod, but I'm always interested in new opportunites, so reach out to me if you want to commission some work, or hire me!
 - 🔭 I’m currently working on nothing at the moment (basically somethings without 100% focus).
 - 🌱 I’m currently learning programming on my own (but have taken a few college level programming classes), and to get IT certifications (will update my profile later when I get them).
 - 👯 I’m looking to collaborate on pretty much anything, just contact me!
