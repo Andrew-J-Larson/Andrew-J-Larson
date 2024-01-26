@@ -1,7 +1,5 @@
 ### Hi visitor [<img src="https://profile-counter.glitch.me/Andrew-J-Larson-GitHub/count.svg" height="15" alt="Visitor Count">](#) of the day! [<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" height="18" alt="Wave">](#)
 
-Formerly my profile went by the username **TheAlienDrew**, I'll remove this notice sometime by next month, so that everyone is up-to-date on this.
-
 I know, my account is pretty miniscule at the moment, but at the moment, I hobby program/cod, but I'm always interested in new opportunites, so reach out to me if you want to commission some work, or hire me!
 - 🔭 I’m currently working on nothing at the moment (basically somethings without 100% focus).
 - 🌱 I’m currently learning programming on my own (but have taken a few college level programming classes), and to get IT certifications (will update my profile later when I get them).
