@@ -1,10 +1,10 @@
 ### Hi visitor [<img src="https://profile-counter.glitch.me/Andrew-J-Larson-GitHub/count.svg" height="15" alt="Visitor Count">](#) of the day! [<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" height="18" alt="Wave">](#)
 
-I know, my account is pretty miniscule at the moment, but at the moment, I hobby program/cod, but I'm always interested in new opportunites, so reach out to me if you want to commission some work, or hire me!
-- 🔭 I’m currently working on nothing at the moment (basically somethings without 100% focus).
-- 🌱 I’m currently learning programming on my own (but have taken a few college level programming classes), and to get IT certifications (will update my profile later when I get them).
+I know my GitHub seems lacking at the moment, but I do hobbyist programming/coding, and I'm always interested in new opportunites. So, reach out if you'd like for me to do some work for you!
+- 🔭 I’m currently working on automating tasks in my current job with OS scripting.
+- 🌱 I’m currently learning software development on my own, where free time allows, due a busy full-time job in IT.
 - 👯 I’m looking to collaborate on pretty much anything, just contact me!
-- 🤔 I’m looking for help with motivation to work on large projects.
+- 🤔 I’m looking for help with getting involved in software development projects.
 - 💬 Ask me about anything, really, I love questions!
 - 📫 How to reach me: you can contact me below...
   - [![Reply to @Andrew_J_Larson](https://img.shields.io/badge/Reply_to_@Andrew__J__Larson--URL?style=social&logo=mastodon&link=https%3A%2F%2Fmstdn.social%2F%40Andrew_J_Larson)](https://mstdn.social/?text=@Andrew_J_Larson@mstdn.social%20)
