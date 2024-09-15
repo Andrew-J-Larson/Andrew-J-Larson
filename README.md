@@ -9,7 +9,7 @@ I know my GitHub seems lacking at the moment, but I do hobbyist programming/codi
 - 📫 How to reach me: you can contact me below, or use my email on the left!
   - [![Reply to @Andrew_J_Larson](https://img.shields.io/badge/Reply_to_@Andrew__J__Larson--URL?style=social&logo=mastodon&link=https%3A%2F%2Fmstdn.social%2F%40Andrew_J_Larson)](https://mstdn.social/?text=@Andrew_J_Larson@mstdn.social%20)
 - ☕ Feeling generous?
-  - [![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E845O3L)
+  - [![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K513DDRN)
   - [![Patreon](https://github.com/Andrew-J-Larson/Andrew-J-Larson/raw/main/donate-buttons/www.patreon.com_dashboard_widgets.png)](https://www.patreon.com/bePatron?u=8414636)
   - [![PayPal](https://github.com/Andrew-J-Larson/Andrew-J-Larson/raw/main/donate-buttons/www.paypal.com_donate_button.png)](https://paypal.me/AndrewJ18Larson)
 - 😄 Pronouns: he/him/his
