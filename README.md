@@ -7,11 +7,11 @@ I know my GitHub seems lacking at the moment, but I do hobbyist programming/codi
 - 🤔 I’m looking for help with getting involved in software development projects.
 - 💬 Ask me about anything, really, I love questions!
 - 📫 How to reach me: you can contact me below, or use my email on the left!
-  - [![Mastodon Social](https://cdn.simpleicons.org/mastodon?viewbox=auto&size=16)](https://mastodon.social/?text=@Andrew_J_Larson@mastodon.social%20) [@Andrew_J_Larson@mastodon.social](https://mastodon.social/?text=@Andrew_J_Larson@mastodon.social%20)
+  - [![Mastodon Social](https://cdn.simpleicons.org/mastodon?viewbox=auto&size=16)](https://mastodon.social/?text=@Andrew_J_Larson@mastodon.social%20) [Mastodon Social](https://mastodon.social/?text=@Andrew_J_Larson@mastodon.social%20)
 - ☕ Feeling generous?
   - [![Buy Me A Coffee](https://cdn.simpleicons.org/buymeacoffee/000000/FFDD00?viewbox=auto&size=16)](https://buymeacoffee.com/Andrew.J.Larson) [Buy Me A Coffee](https://buymeacoffee.com/Andrew.J.Larson)
   - [![PayPal](https://cdn.simpleicons.org/paypal/003087/ffffff?viewbox=auto&size=16)](https://www.paypal.com/donate/?business=J2NM28BN5MVYY) [PayPal](https://www.paypal.com/donate/?business=J2NM28BN5MVYY)
-  - [![Coinbase Commerce](https://cdn.simpleicons.org/coinbase?viewbox=auto&size=16)](https://commerce.coinbase.com/checkout/acbae935-8b85-4070-959d-bbc7c8878eca) [Commerce](https://commerce.coinbase.com/checkout/acbae935-8b85-4070-959d-bbc7c8878eca)
+  - [<img alt="Coinbase Commerce" src="https://static-assets.coinbase.com/ui-infra/illustration/v1/pictogram/svg/light/coinbaseLogoNavigation-2.svg" width="16">](https://commerce.coinbase.com/checkout/acbae935-8b85-4070-959d-bbc7c8878eca) [Coinbase Commerce](https://commerce.coinbase.com/checkout/acbae935-8b85-4070-959d-bbc7c8878eca)
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I really enjoy adding tiny features onto websites online via Tampermonkey (injected JS) or Stylus (injected CSS).
 
