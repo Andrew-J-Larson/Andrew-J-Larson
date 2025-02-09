@@ -7,10 +7,11 @@ I know my GitHub seems lacking at the moment, but I do hobbyist programming/codi
 - 🤔 I’m looking for help with getting involved in software development projects.
 - 💬 Ask me about anything, really, I love questions!
 - 📫 How to reach me: you can contact me below, or use my email on the left!
-  - [![Reply to @Andrew_J_Larson](https://img.shields.io/badge/Reply_to_@Andrew__J__Larson--URL?style=social&logo=mastodon&link=https%3A%2F%2Fmstdn.social%2F%40Andrew_J_Larson)](https://mstdn.social/?text=@Andrew_J_Larson@mstdn.social%20)
+  - [![Mastodon Social](https://cdn.simpleicons.org/mastodon?viewbox=auto&size=16)](https://mastodon.social/?text=@Andrew_J_Larson@mastodon.social%20) [@Andrew_J_Larson@mastodon.social](https://mastodon.social/?text=@Andrew_J_Larson@mastodon.social%20)
 - ☕ Feeling generous?
-  - [![Buy Me A Coffee](https://github.com/Andrew-J-Larson/Andrew-J-Larson/raw/main/donate-buttons/buymeacoffee.com_donate_button.png)](https://buymeacoffee.com/Andrew.J.Larson)
-  - [![PayPal](https://github.com/Andrew-J-Larson/Andrew-J-Larson/raw/main/donate-buttons/paypal.com_donate_button.png)](https://paypal.me/AndrewJ18Larson)
+  - [![Buy Me A Coffee](https://cdn.simpleicons.org/buymeacoffee?viewbox=auto&size=16)](https://buymeacoffee.com/Andrew.J.Larson) [Buy Me A Coffee](https://buymeacoffee.com/Andrew.J.Larson)
+  - [![PayPal](https://cdn.simpleicons.org/paypal?viewbox=auto&size=16)](https://www.paypal.com/donate/?business=J2NM28BN5MVYY) [PayPal](https://www.paypal.com/donate/?business=J2NM28BN5MVYY)
+  - [![Coinbase Commerce](https://cdn.simpleicons.org/coinbase?viewbox=auto&size=16)](https://commerce.coinbase.com/checkout/acbae935-8b85-4070-959d-bbc7c8878eca) [Commerce](https://commerce.coinbase.com/checkout/acbae935-8b85-4070-959d-bbc7c8878eca)
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I really enjoy adding tiny features onto websites online via Tampermonkey (injected JS) or Stylus (injected CSS).
 
