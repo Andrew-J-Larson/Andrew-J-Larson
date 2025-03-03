@@ -2,7 +2,7 @@
 
 I know my GitHub seems lacking at the moment, but I do hobbyist programming/coding, and I'm always interested in new opportunites. So, reach out if you'd like for me to do some work for you!
 - 🔭 I’m currently working on automating tasks in my current job with OS scripting.
-- 🌱 I’m currently learning software development on my own, where free time allows, due a busy full-time job in IT.
+- 🌱 I’m currently learning software development on my own, where free time allows, due to a busy full-time job in IT.
 - 👯 I’m looking to collaborate on pretty much anything, just contact me!
 - 🤔 I’m looking for help with getting involved in software development projects.
 - 💬 Ask me about anything, really, I love questions!
